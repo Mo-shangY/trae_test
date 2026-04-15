@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5174/)",
+      "Bash(curl -s http://localhost:5173/)",
+      "Bash(curl -s http://localhost:5175/projects)",
+      "Bash(pkill -f \"vite\")",
+      "Bash(curl -s http://localhost:5176/)",
+      "Bash(curl -s http://localhost:5176/projects)",
+      "Bash(curl -s http://localhost:5177/)",
+      "Bash(curl -s http://localhost:5177/projects)",
+      "Bash(curl -s http://localhost:5178/)",
+      "Bash(curl -s http://localhost:5178/projects)",
+      "Bash(git add *)"
+    ]
+  }
+}
