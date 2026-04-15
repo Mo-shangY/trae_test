@@ -28,8 +28,8 @@ const handleMouseMove = (e) => {
 
 // 标题打字机效果
 const typedTitle = ref('')
-const fullTitle = '你好，我是 <span class="text-transparent bg-clip-text bg-gradient-to-r from-geek-green to-emerald-400">陌殇</span>'
-const displayTitle = '你好，我是 陌殇'
+const fullTitle = '你好，我是 <span class="text-transparent bg-clip-text bg-gradient-to-r from-geek-green to-emerald-400">哈哈哈</span>'
+const displayTitle = '你好，我是 哈哈哈'
 let charIndex = 0
 
 const typeWriter = () => {
@@ -130,7 +130,7 @@ onUnmounted(() => {
       <h1
         v-html="typedTitle || fullTitle"
         class="text-4xl md:text-6xl font-bold tracking-tight animate-fade-in-up glitch-text"
-        data-text="你好，我是 陌殇"
+        data-text="你好，我是 哈哈哈"
       ></h1>
 
       <p class="text-xl text-zinc-400 animate-fade-in-up animate-delay-100">

@@ -11,7 +11,7 @@ import { Github } from 'lucide-vue-next'
         </a>
       </div>
       <p class="text-zinc-500 text-sm">
-        &copy; {{ new Date().getFullYear() }} 陌殇. All rights reserved.
+        &copy; {{ new Date().getFullYear() }} 哈哈哈. All rights reserved.
       </p>
       <p class="text-zinc-600 text-xs mt-2">
         Powered by Vue 3 & Tailwind CSS

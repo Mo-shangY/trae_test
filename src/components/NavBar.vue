@@ -35,7 +35,7 @@ const menuItems = [
           <div class="absolute -inset-1 bg-geek-green/20 rounded blur opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
 
           <Terminal class="w-6 h-6 relative z-10 animate-pulse" />
-          <span class="relative z-10">陌殇</span>
+          <span class="relative z-10">哈哈哈</span>
         </RouterLink>
 
         <!-- Desktop Menu -->

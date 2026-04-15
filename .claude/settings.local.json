@@ -13,7 +13,12 @@
       "Bash(curl -s http://localhost:5177/projects)",
       "Bash(curl -s http://localhost:5178/)",
       "Bash(curl -s http://localhost:5178/projects)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(openspec instructions *)",
+      "Bash(openspec status *)",
+      "Bash(xargs grep *)",
+      "Bash(vercel *)"
     ]
   }
 }
